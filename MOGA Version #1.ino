@@ -6,7 +6,7 @@
 
 // SSID & Password
 const char* ssid = "OmarElgaar";
-const char* password = "STEM 6th of OCT El-Doc. S'25";
+const char* password = "Password";
 
 WebServer server(80);  // Object of WebServer(HTTP port, 80 is defult)
 
